@@ -24,8 +24,8 @@ public class Member {
 	public String getPwd() {
 		return pwd;
 	}
-	public void setPwd(String password) {
-		this.pwd = password;
+	public void setPwd(String pwd) {
+		this.pwd = pwd;
 	}
 	public Date getRegDate() {
 		return regDate;
